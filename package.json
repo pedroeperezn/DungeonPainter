@@ -4,7 +4,8 @@
   "version" : "0.0.1",
   "unity" : "2022.3",
   "displayName" : "Dungeon Painter",
-  "author" : "Pedro E. Perez"
+  "author" : "Pedro E. Perez",
+  
   "dependencies":
   {
     "com.unity.ai.navigation" : "1.1.4"
