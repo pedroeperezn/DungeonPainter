@@ -1,7 +1,7 @@
 {
   "name" :  "com.pedroeperezn.dungeonpainter",
   "description" : "Procedurally generated dungeon painting tool for level prototyping",
-  "version" : "0.0.1",
+  "version" : "0.1.0",
   "unity" : "2022.3",
   "displayName" : "Dungeon Painter",
   "author" : "Pedro E. Perez",
